@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/rkarmaka/muse-mind/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/musemind" alt="License: MIT">
+    <img src="https://img.shields.io/github/license/rkarmaka/muse-mind" alt="License: MIT">
   </a>
   <img src="https://img.shields.io/badge/python-3.13%2B-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/status-experimental-orange" alt="Project Status">
