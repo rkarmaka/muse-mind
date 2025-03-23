@@ -71,6 +71,6 @@ Want to collab?
 Feel free to open an issue, submit a PR, or just reach out directly. I'd love to hear from you!
 
 ## 📫 Contact
-You can reach me via GitHub or [LinkedIn]().
+You can reach me via GitHub or [LinkedIn](https://www.linkedin.com/in/rkarmaka/).
 
 Happy exploring! ✨
