@@ -1,6 +1,5 @@
 import torch
 from transformers import pipeline, AutoTokenizer
-from rich import print
 
 
 def generate(topic_name=None):
