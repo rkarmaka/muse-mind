@@ -34,10 +34,6 @@ Because it's using a tiny local LLM, it does hallucinate sometimes — but hones
 ---
 
 ## 🎥 Demo
-
-> [Add video/gif here: drag-and-drop demo or screen recording]  
-> (e.g. "Click the image below to see MuseMind in action!")
-
 <p align="center">
   <img src="static/video/demo.gif" alt="MuseMind Demo" width="600"/>
 </p>
